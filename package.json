@@ -1,0 +1,13 @@
+{
+  "name": "terabox-video-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.55.0",
+    "puppeteer": "^19.0.0"
+  }
+}
